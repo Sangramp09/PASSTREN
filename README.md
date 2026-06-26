@@ -56,7 +56,7 @@ PasStren/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Sangramp09/PasStren.git
+https://github.com/Sangramp09/PASSTREN
 ```
 
 Move into project folder:
