@@ -1,9 +1,5 @@
 # PasStren Requirements
 
-# No external dependencies required.
-
-# Uses only Python standard libraries.
-
 # Python Version
 
 python>=3.8
